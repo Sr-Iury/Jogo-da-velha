@@ -1,0 +1,17 @@
+C:\Users\Iury\Documents\VScode\Jv\Jv\bin\Debug\net6.0-windows\Jv.exe
+C:\Users\Iury\Documents\VScode\Jv\Jv\bin\Debug\net6.0-windows\Jv.deps.json
+C:\Users\Iury\Documents\VScode\Jv\Jv\bin\Debug\net6.0-windows\Jv.runtimeconfig.json
+C:\Users\Iury\Documents\VScode\Jv\Jv\bin\Debug\net6.0-windows\Jv.dll
+C:\Users\Iury\Documents\VScode\Jv\Jv\bin\Debug\net6.0-windows\Jv.pdb
+C:\Users\Iury\Documents\VScode\Jv\Jv\obj\Debug\net6.0-windows\Jv.csproj.AssemblyReference.cache
+C:\Users\Iury\Documents\VScode\Jv\Jv\obj\Debug\net6.0-windows\Jv.formulario.resources
+C:\Users\Iury\Documents\VScode\Jv\Jv\obj\Debug\net6.0-windows\Jv.csproj.GenerateResource.cache
+C:\Users\Iury\Documents\VScode\Jv\Jv\obj\Debug\net6.0-windows\Jv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iury\Documents\VScode\Jv\Jv\obj\Debug\net6.0-windows\Jv.AssemblyInfoInputs.cache
+C:\Users\Iury\Documents\VScode\Jv\Jv\obj\Debug\net6.0-windows\Jv.AssemblyInfo.cs
+C:\Users\Iury\Documents\VScode\Jv\Jv\obj\Debug\net6.0-windows\Jv.csproj.CoreCompileInputs.cache
+C:\Users\Iury\Documents\VScode\Jv\Jv\obj\Debug\net6.0-windows\Jv.dll
+C:\Users\Iury\Documents\VScode\Jv\Jv\obj\Debug\net6.0-windows\refint\Jv.dll
+C:\Users\Iury\Documents\VScode\Jv\Jv\obj\Debug\net6.0-windows\Jv.pdb
+C:\Users\Iury\Documents\VScode\Jv\Jv\obj\Debug\net6.0-windows\Jv.genruntimeconfig.cache
+C:\Users\Iury\Documents\VScode\Jv\Jv\obj\Debug\net6.0-windows\ref\Jv.dll
